@@ -40,9 +40,9 @@
   >
   > 月榜语言使用情况
   >
-  > > ![](C:\Users\lsy\Desktop\OpenSource-Object\pic\language_pie_chart-monthly.png)
+  > > ![](pic\language_pie_chart-monthly.png)
   > >
-  > > ![](C:\Users\lsy\Desktop\OpenSource-Object\pic\Language_Ploting_monthly.png)
+  > > ![](pic\Language_Ploting_monthly.png)
   > >
   > > 
   >
