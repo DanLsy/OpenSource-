@@ -40,9 +40,9 @@
   >
   > 月榜语言使用情况
   >
-  > > ![](pic\language_pie_chart-monthly.png)
+  > > ![](pic/language_pie_chart-monthly.png)
   > >
-  > > ![](pic\Language_Ploting_monthly.png)
+  > > ![](pic/Language_Ploting_monthly.png)
   > >
   > > 
   >
