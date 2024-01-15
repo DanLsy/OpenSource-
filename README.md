@@ -24,7 +24,7 @@
 
    图3：最终爬取到的数据（部分）
 
-  ![](C:\Users\lsy\Desktop\OpenSource-Object\resources\3.png.png)
+  ![](resources/3.png.png)
 
   ​                                                                                        
 
